@@ -3,4 +3,3 @@ float64[3] attitude
 float64[3] velocity_pos
 float64[3] velocity_att
 float64 finger_pitch
-bool mode
